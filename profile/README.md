@@ -31,6 +31,7 @@ Requirements to add a repository to the organization https://github.com/neccton-
 | [ERGOM-NECCTON](https://gitlab.opencode.de/bsh/neccton) | | Anja Lindenthal | 5.2.1, 5.2.3 and 5.2.4 | ERGOM-FABM code with DVM and bio-optical modules |
 | [SEAPODYM-1D-IET](https://github.com/neccton-algo/SEAPODYM-1D-IET) | | [@cls-team](https://github.com/neccton-algo/SEAPODYM-1D-IET/commits?author=cls-team) | 3.2 and 5.2.1 | 1D version of SEAPODYM-LMTL Intermediate Energy Transfert (IET) |
 | [Plastic_Poseidon](https://github.com/tamvas3712/Plastic_Poseidon) | | [@tamvas3712](https://github.com/tamvas3712) | 8.2.2 | Marine plastic pollution module  |
+| [HAMSOM-ECOSMO-MERCY](https://github.com/jbieser/HAMSOM-ECOSMO-MERCY) | | [@jbieser](https://github.com/jbieser) | 8.2.5 | Marine mercury cycling and bioaccumulation module  |
 | [Bfiat](https://github.com/EMODnet/Bfiat) | | [@karlines](https://github.com/karlines) | 8.2.6 | Bottom Fishing Impact Assessment Tools  |
 
 
